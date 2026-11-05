@@ -13,18 +13,16 @@
 
 <br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-14%2B-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-4.x-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-Mongoose-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Handlebars](https://img.shields.io/badge/Handlebars-Templates-f0772b?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" title="Node.js"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express" title="Express"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="48" alt="Handlebars" title="Handlebars"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="Bootstrap" title="Bootstrap"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" title="JavaScript"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/>
+</p>
 
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![PRs](https://img.shields.io/badge/PRs-Welcome-ff69b4?style=flat-square)
 ![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Syed--Muhammad--Tayyab-181717?style=for-the-badge&logo=github)](https://github.com/Syed-Muhammad-Tayyab)
+[![GitHub](https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Syed--Muhammad--Tayyab-181717?style=for-the-badge)](https://github.com/Syed-Muhammad-Tayyab)
 
 [✨ Features](#-features) • [📸 Screenshots](#-screenshots) • [🧰 Tech Stack](#-tech-stack) • [🗂️ Structure](#️-project-structure) • [⚡ Quick Start](#-quick-start) • [🛣️ Routes](#️-routes) • [🗄️ Database](#️-database-schema) • [🤝 Contributing](#-contributing)
 
@@ -142,7 +140,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,html,css,bootstrap,js,git,github,vscode&theme=dark" alt="Tech stack icons"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" title="Node.js"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="48" alt="Express" title="Express"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" title="MongoDB"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="48" alt="Bootstrap" title="Bootstrap"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JS" title="JS"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git" title="Git"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" title="GitHub"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code"/>
 
 | Layer | Technology |
 |:--|:--|
@@ -414,7 +412,7 @@ Based on the open-source project *Autorizz Car Dealership System* by [Hemanth Ko
 
 ### 👨‍💻 Developed by **Syed Muhammad Tayyab**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Syed--Muhammad--Tayyab-181717?style=for-the-badge&logo=github)](https://github.com/Syed-Muhammad-Tayyab)
+[![GitHub](https://img.shields.io/badge/%F0%9F%90%99%20GitHub-Syed--Muhammad--Tayyab-181717?style=for-the-badge)](https://github.com/Syed-Muhammad-Tayyab)
 
 ⭐ **If you like this project, give it a star!** ⭐
 
